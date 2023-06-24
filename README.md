@@ -5,8 +5,8 @@ You need a Raspberry Pi 4B to start with.
 
 I purchased a PiicoDev starter Kit and a Raspberry Pi Pico. see links below.  
 
--Raspberry Pi Pico H (With Headers) - https://core-electronics.com.au/raspberry-pi-pico-h-with-headers.html
--PiicoDev Starter Kit for Raspberry Pi Pico - https://core-electronics.com.au/piicodev-starter-kit-for-raspberry-pi-pico.html
+- Raspberry Pi Pico H (With Headers) - https://core-electronics.com.au/raspberry-pi-pico-h-with-headers.html
+- PiicoDev Starter Kit for Raspberry Pi Pico - https://core-electronics.com.au/piicodev-starter-kit-for-raspberry-pi-pico.html
 
 Next I read the following Guide:
 
