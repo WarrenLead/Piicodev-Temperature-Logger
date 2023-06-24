@@ -120,6 +120,8 @@ while True:
     z = pres_hPa
     b = humRH
     tempC1 = tempC
+     
+    #plot the graph
     display.updateGraph2D(graph1, y)
     display.hline(0,20,128,1) # draw top line
     display.hline(0,63,128,1) # draw bottom line
