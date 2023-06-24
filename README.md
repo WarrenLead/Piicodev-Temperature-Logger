@@ -5,11 +5,12 @@ You need a Raspberry Pi 4B to start with.
 
 I purchased a PiicoDev starter Kit and a Raspberry Pi Pico. see links below.  
 
--Raspberry Pi Pico H (With Headers) https://core-electronics.com.au/raspberry-pi-pico-h-with-headers.html
--PiicoDev Starter Kit for Raspberry Pi Pico https://core-electronics.com.au/piicodev-starter-kit-for-raspberry-pi-pico.html
+-Raspberry Pi Pico H (With Headers) - https://core-electronics.com.au/raspberry-pi-pico-h-with-headers.html
+-PiicoDev Starter Kit for Raspberry Pi Pico - https://core-electronics.com.au/piicodev-starter-kit-for-raspberry-pi-pico.html
 
-Next I read the following Guide
-PiicoDev OLED Module SSD1306 - Raspberry Pi Pico Guide
+Next I read the following Guide:
+
+PiicoDev OLED Module SSD1306 - Raspberry Pi Pico Guide - 
 https://core-electronics.com.au/guides/raspberry-pi-pico/piicodev-oled-ssd1306-raspberry-pi-pico-guide/#download
 
 Then I assembled the starter PiicoDev kit with the RP Pico plugged into the PiicoDev LiPo Expansion Board and connected the OLED Module, the Atmospheric sensor module, the Buzzer module, the RGB lights module and the capacitive tough sensor module on the PiccoDev platform. As per attached picture.
